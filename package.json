@@ -1,0 +1,11 @@
+{
+  "name": "first-application",
+  "version": "1.0.0",
+  "description": "my first application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
